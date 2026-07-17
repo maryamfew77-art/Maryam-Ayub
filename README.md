@@ -13,7 +13,6 @@
 - React
 - Next.js
 - C#
-  
 -SQL  
 
 ### 📌 Goals
