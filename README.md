@@ -12,8 +12,8 @@
 - Git & GitHub
 - React
 - Next.js
+- SQL
 - C#
--SQL  
 
 ### 📌 Goals
 - Build real-world projects
