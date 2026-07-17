@@ -12,7 +12,7 @@
 - Git & GitHub
 - React
 - Next.js
--c#
+- C#
 -SQL  
 
 ### 📌 Goals
