@@ -10,6 +10,10 @@
 - HTML, CSS
 - JavaScript (basic)
 - Git & GitHub
+- React
+- Next.js
+-c#
+-SQL  
 
 ### 📌 Goals
 - Build real-world projects
